@@ -6,12 +6,12 @@ A full-stack web application for detecting social bias in Large Language Models 
 
 ## ✨ Features
 
-- **📊 Dashboard** — View all past evaluations with bias scores, model used, pairs tested, and timestamps
-- **🚀 Run Evaluation** — Configure and launch bias evaluations against LLMs with a beautiful loading overlay
-- **📈 Results Page** — Interactive gauge, per-category bar charts, and full sentence pair results table
-- **🔍 Sample Pairs Explorer** — Browse all CrowS-Pairs sentence pairs, filterable by category
+- ** Dashboard** — View all past evaluations with bias scores, model used, pairs tested, and timestamps
+- ** Run Evaluation** — Configure and launch bias evaluations against LLMs with a beautiful loading overlay
+- ** Results Page** — Interactive gauge, per-category bar charts, and full sentence pair results table
+- ** Sample Pairs Explorer** — Browse all CrowS-Pairs sentence pairs, filterable by category
 
-## 🤖 Supported Models
+##  Supported Models
 
 | Model | Provider |
 |-------|----------|
