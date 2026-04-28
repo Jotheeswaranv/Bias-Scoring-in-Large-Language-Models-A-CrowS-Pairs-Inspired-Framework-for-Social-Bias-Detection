@@ -1,4 +1,4 @@
-# 🔬 LLM Bias Detector
+# 🔬 Bias Scoring in Large Language Models: A CrowS-Pairs-Inspired Framework for Social Bias Detection
 
 A full-stack web application for detecting social bias in Large Language Models using the **CrowS-Pairs methodology**. Evaluate GPT and Gemini models across 9 bias categories with interactive dashboards and visualizations.
 
