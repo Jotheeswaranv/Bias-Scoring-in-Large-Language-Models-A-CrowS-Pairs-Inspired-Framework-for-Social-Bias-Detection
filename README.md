@@ -1,0 +1,2 @@
+# Bias-Scoring-in-Large-Language-Models-A-CrowS-Pairs-Inspired-Framework-for-Social-Bias-Detection
+Web-based application for detecting social bias in Large Language Models using CrowS-Pairs methodology. Compares OpenAI and Gemini outputs by classifying responses as stereotyped or anti-stereotyped, calculates bias scores, and visualizes category-wise results through charts, tables, and dashboards for fair AI evaluation.
